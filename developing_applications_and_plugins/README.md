@@ -3,8 +3,8 @@
 - [應用整合包](./application_packages.md)
 - [應用開發基礎](./application_development_basics.md)
 - 應用測試
-- Java提供服務容器
-- 容器元件
+- [Java提供服務容器](./java_serving_container.md)
+- [容器元件](./container_components.md)
 - 容器元件型態
 - 請求回應處理
 - 開發搜尋器
